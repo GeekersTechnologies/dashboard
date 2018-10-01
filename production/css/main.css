@@ -1,0 +1,23 @@
+.tabledash h1 {
+	color: #2A3F54;
+	font-weight: bold;
+	text-shadow: 2px 2px #ccc;
+}
+
+.tabledash input {
+	border: 1px solid #2A3F54;
+}
+
+.dataTables_paginate a {
+	/*background-color: #2A3F54 !important;*/
+	/*color: #EAEAEA !important;*/
+}
+
+.dataTables_paginate {
+	color: #FFF !important;
+}
+
+.dtBasicExample thead {
+	background-color: #2A3F54 !important;
+	color: #EAEAEA !important;
+}
